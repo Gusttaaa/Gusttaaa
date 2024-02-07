@@ -36,7 +36,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://media1.tenor.com/m/lUax-CJ3QVoAAAAC/anime-aestethic.gif" alt="Imagem">
+  <img align="center" src="https://tenor.com/view/room-lo-fi-aesthetic-rain-gif-16092424" alt="Imagem">
 </p>
 
 ## 🔥 Skills
