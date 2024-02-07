@@ -9,11 +9,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/gusttaa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gusttaa&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xdbbub34o71er4hfawkwggac7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ###
 
