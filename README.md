@@ -54,6 +54,8 @@
 
 <br clear="both">
 
+![Snake animation](https://github.com/Gusttaaa/Gusttaaa/blob/output/github-contribution-grid-snake.svg)
+
 <img src="https://raw.githubusercontent.com/Gusttaaa/Gusttaaa/output/snake.svg" alt="Snake animation" />
 
 
