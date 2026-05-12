@@ -1,17 +1,5 @@
 <h2 align="left">Hi 👋! My name is Gustavo and I'm a Software Developer, from Brazil</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gusttaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=holi&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gusttaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=holi&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xdbbub34o71er4hfawkwggac7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
